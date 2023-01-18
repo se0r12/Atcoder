@@ -1,0 +1,30 @@
+{
+  "cacheVersion": "D20210525T193831",
+  "outputFile": "/home/se0r12/Atcoder/AtCoder_Beginners_Selection/ABC088B/tests/nim/test",
+  "compile": [],
+  "link": [
+    "/home/se0r12/Atcoder/AtCoder_Beginners_Selection/ABC088B/nimcache/tests/nim/test.nim_4a8a08f09d37b73795649038408b5f33/@m..@s..@s..@s..@s..@s.choosenim@stoolchains@snim-1.6.10@slib@sstd@sprivate@sdigitsutils.nim.c.o",
+    "/home/se0r12/Atcoder/AtCoder_Beginners_Selection/ABC088B/nimcache/tests/nim/test.nim_4a8a08f09d37b73795649038408b5f33/@m..@s..@s..@s..@s..@s.choosenim@stoolchains@snim-1.6.10@slib@ssystem@sassertions.nim.c.o",
+    "/home/se0r12/Atcoder/AtCoder_Beginners_Selection/ABC088B/nimcache/tests/nim/test.nim_4a8a08f09d37b73795649038408b5f33/@m..@s..@s..@s..@s..@s.choosenim@stoolchains@snim-1.6.10@slib@ssystem@sdollars.nim.c.o",
+    "/home/se0r12/Atcoder/AtCoder_Beginners_Selection/ABC088B/nimcache/tests/nim/test.nim_4a8a08f09d37b73795649038408b5f33/@m..@s..@s..@s..@s..@s.choosenim@stoolchains@snim-1.6.10@slib@ssystem@sio.nim.c.o",
+    "/home/se0r12/Atcoder/AtCoder_Beginners_Selection/ABC088B/nimcache/tests/nim/test.nim_4a8a08f09d37b73795649038408b5f33/@m..@s..@s..@s..@s..@s.choosenim@stoolchains@snim-1.6.10@slib@ssystem.nim.c.o",
+    "/home/se0r12/Atcoder/AtCoder_Beginners_Selection/ABC088B/nimcache/tests/nim/test.nim_4a8a08f09d37b73795649038408b5f33/@m..@s..@s..@s..@s..@s.choosenim@stoolchains@snim-1.6.10@slib@spure@sparseutils.nim.c.o",
+    "/home/se0r12/Atcoder/AtCoder_Beginners_Selection/ABC088B/nimcache/tests/nim/test.nim_4a8a08f09d37b73795649038408b5f33/@m..@s..@s..@s..@s..@s.choosenim@stoolchains@snim-1.6.10@slib@spure@salgorithm.nim.c.o",
+    "/home/se0r12/Atcoder/AtCoder_Beginners_Selection/ABC088B/nimcache/tests/nim/test.nim_4a8a08f09d37b73795649038408b5f33/@m..@s..@s..@s..@s..@s.choosenim@stoolchains@snim-1.6.10@slib@spure@sstrutils.nim.c.o",
+    "/home/se0r12/Atcoder/AtCoder_Beginners_Selection/ABC088B/nimcache/tests/nim/test.nim_4a8a08f09d37b73795649038408b5f33/@m..@s..@smain.nim.c.o",
+    "/home/se0r12/Atcoder/AtCoder_Beginners_Selection/ABC088B/nimcache/tests/nim/test.nim_4a8a08f09d37b73795649038408b5f33/@mtest.nim.c.o"
+  ],
+  "linkcmd": "gcc   -o /home/se0r12/Atcoder/AtCoder_Beginners_Selection/ABC088B/tests/nim/test /home/se0r12/Atcoder/AtCoder_Beginners_Selection/ABC088B/nimcache/tests/nim/test.nim_4a8a08f09d37b73795649038408b5f33/@m..@s..@s..@s..@s..@s.choosenim@stoolchains@snim-1.6.10@slib@sstd@sprivate@sdigitsutils.nim.c.o /home/se0r12/Atcoder/AtCoder_Beginners_Selection/ABC088B/nimcache/tests/nim/test.nim_4a8a08f09d37b73795649038408b5f33/@m..@s..@s..@s..@s..@s.choosenim@stoolchains@snim-1.6.10@slib@ssystem@sassertions.nim.c.o /home/se0r12/Atcoder/AtCoder_Beginners_Selection/ABC088B/nimcache/tests/nim/test.nim_4a8a08f09d37b73795649038408b5f33/@m..@s..@s..@s..@s..@s.choosenim@stoolchains@snim-1.6.10@slib@ssystem@sdollars.nim.c.o /home/se0r12/Atcoder/AtCoder_Beginners_Selection/ABC088B/nimcache/tests/nim/test.nim_4a8a08f09d37b73795649038408b5f33/@m..@s..@s..@s..@s..@s.choosenim@stoolchains@snim-1.6.10@slib@ssystem@sio.nim.c.o /home/se0r12/Atcoder/AtCoder_Beginners_Selection/ABC088B/nimcache/tests/nim/test.nim_4a8a08f09d37b73795649038408b5f33/@m..@s..@s..@s..@s..@s.choosenim@stoolchains@snim-1.6.10@slib@ssystem.nim.c.o /home/se0r12/Atcoder/AtCoder_Beginners_Selection/ABC088B/nimcache/tests/nim/test.nim_4a8a08f09d37b73795649038408b5f33/@m..@s..@s..@s..@s..@s.choosenim@stoolchains@snim-1.6.10@slib@spure@sparseutils.nim.c.o /home/se0r12/Atcoder/AtCoder_Beginners_Selection/ABC088B/nimcache/tests/nim/test.nim_4a8a08f09d37b73795649038408b5f33/@m..@s..@s..@s..@s..@s.choosenim@stoolchains@snim-1.6.10@slib@spure@salgorithm.nim.c.o /home/se0r12/Atcoder/AtCoder_Beginners_Selection/ABC088B/nimcache/tests/nim/test.nim_4a8a08f09d37b73795649038408b5f33/@m..@s..@s..@s..@s..@s.choosenim@stoolchains@snim-1.6.10@slib@spure@sstrutils.nim.c.o /home/se0r12/Atcoder/AtCoder_Beginners_Selection/ABC088B/nimcache/tests/nim/test.nim_4a8a08f09d37b73795649038408b5f33/@m..@s..@smain.nim.c.o /home/se0r12/Atcoder/AtCoder_Beginners_Selection/ABC088B/nimcache/tests/nim/test.nim_4a8a08f09d37b73795649038408b5f33/@mtest.nim.c.o  -lm -lm   -ldl",
+  "extraCmds": [],
+  "configFiles": [
+    "/home/se0r12/.choosenim/toolchains/nim-1.6.10/config/nim.cfg",
+    "/home/se0r12/.choosenim/toolchains/nim-1.6.10/config/config.nims"
+  ],
+  "stdinInput": false,
+  "projectIsCmd": false,
+  "cmdInput": "",
+  "currentDir": "/home/se0r12/Atcoder/AtCoder_Beginners_Selection/ABC088B",
+  "cmdline": "",
+  "depfiles": [],
+  "nimexe": ""
+}
